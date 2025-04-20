@@ -22,7 +22,6 @@ pnpm dev      # 启动开发服务器
 
 \`\`\`bash
 pnpm build
-# dist 目录可用于部署到 Vercel / Netlify / GitHub Pages
 \`\`\`
 
 ## 🛠️ 技术栈
